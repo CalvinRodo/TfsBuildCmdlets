@@ -7,3 +7,6 @@ Copy PSTFSBuild.dll to your Modules directory. Typically it's My Documents\Windo
 Run the following command in PowerShell to add the Add-Module PSTFSBuild.dll
 
 To have the Module run everytime you start up powershell put the Add-Module  command into your PowerShell profile. 
+
+For easier loading follow the instructions for auto loading of modules in this gist
+https://gist.github.com/1641637
